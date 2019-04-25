@@ -1,2 +1,2 @@
 # weather-app
-Weather app with darksky api.
+Weather app with fcc api.
